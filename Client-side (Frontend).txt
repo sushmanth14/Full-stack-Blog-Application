@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Blog App</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header>
+<nav>
+<ul>
+<li><a href="#">Home</a></li>
+<li><a href="#">About</a></li>
+<li><a href="#">Contact</a></li>
+</ul>
+</nav>
+</header>
+<main>
+<section class="blog-posts">
+<h1>Blog Posts</h1>
+<ul id="blog-posts-list">
+<!-- blog posts will be rendered here -->
+</ul>
+</section>
+<section class="create-post">
+<h1>Create a new post</h1>
+<form id="create-post-form">
+<label for="title">Title:</label>
+<input type="text" id="title" name="title"><br><br>
+<label for="content">Content:</label>
+<textarea id="content" name="content"></textarea><br><br>
+<button type="submit">Create Post</button>
+</form>
+</section>
+</main>
+<script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,46 @@
+Full-Stack Blog Application User Document
+
+Overview
+
+The Full-Stack Blog Application is a web-based platform that allows users to create, publish, edit, and delete blog posts, as well as comment on them and filter posts by categories. This document provides a comprehensive guide for users to navigate and utilize the application's features.
+
+Getting Started
+
+Registration: To start using the application, users must register by providing a username, email address, and password.
+Login: After registration, users can log in to the application using their username and password.
+Dashboard: The dashboard provides an overview of the user's blog posts, comments, and categories.
+Creating a Blog Post
+
+New Post: Click the "New Post" button to create a new blog post.
+Title and Content: Enter a title and content for the blog post.
+Categories: Select one or more categories for the blog post.
+Publish: Click the "Publish" button to publish the blog post.
+Managing Blog Posts
+
+Blog Post List: The blog post list displays all published blog posts.
+Edit: Click the "Edit" button to edit a blog post.
+Delete: Click the "Delete" button to delete a blog post.
+Commenting on Blog Posts
+
+Comment: Click the "Comment" button to comment on a blog post.
+Comment List: The comment list displays all comments on a blog post.
+Reply: Click the "Reply" button to reply to a comment.
+Managing Categories
+
+Category List: The category list displays all categories.
+New Category: Click the "New Category" button to create a new category.
+Edit: Click the "Edit" button to edit a category.
+Delete: Click the "Delete" button to delete a category.
+Searching and Filtering
+
+Search: Use the search bar to search for blog posts by title, content, or category.
+Filter: Use the filter dropdown to filter blog posts by category.
+Responsive Design
+
+The application is designed to be responsive, ensuring a smooth user experience across various devices and screen sizes.
+
+Troubleshooting
+
+If you encounter any issues or errors while using the application, please contact the support team at support sushmanthgoud14@gmail.com
+
+
